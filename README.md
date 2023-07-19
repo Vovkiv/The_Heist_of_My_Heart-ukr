@@ -1,10 +1,10 @@
-# /Назва Фанфіка/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+# /The Heist of My Heart/ - Українською
+![обкладинка](https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/перекладений опис фанфіка з fimfiction/
+/Pinkie tries to steal Twilight's heart with the help of Rainbow. Twilight pretends to stay asleep and enacts her own plan. As Twilight messes with Pinkie, she realizes she may like Pinkie as more than a friend. By the end Twilight asks Pinkie out. They cuddle and fall asleep./
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
+пдф файл: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main/The%20Heist%20of%20My%20Heart%20-%20ukr.pdf
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -29,10 +29,10 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/посилання_на_фанфік
+https://www.fimfiction.net/story/538410/the-heist-of-my-heart
 
 # Original cover:
-https://посилання_на_обкладинку
+https://github.com/SilkRose/Pony/blob/mane/src/stories/the-heist-of-my-heart/cover.png
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
