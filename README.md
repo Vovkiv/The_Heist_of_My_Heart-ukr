@@ -1,7 +1,7 @@
-# /The Heist of My Heart/ - Українською
+# Грабунок мого серця - Українською
 ![обкладинка](https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-Pinkie tries to steal Twilight's heart with a kiss and a love note.
+Пінкі намагається викрасти серце Твайлайт поцілунком і любовною запискою. Але у Твайлайт інші плани.
 
 # Як відкрити? Де фанфік?
 markdown файл: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main/The%20Heist%20of%20My%20Heart%20-%20ukr.md
@@ -31,6 +31,7 @@ markdown файл: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main
 
 # Original fic:
 https://www.fimfiction.net/story/538410/the-heist-of-my-heart
+https://github.com/SilkRose/Pony/tree/mane/src/stories/the-heist-of-my-heart
 
 # Original cover:
 https://github.com/SilkRose/Pony/blob/mane/src/stories/the-heist-of-my-heart/cover.png
