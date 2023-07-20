@@ -1,7 +1,7 @@
 # /The Heist of My Heart/ - Українською
 ![обкладинка](https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/Pinkie tries to steal Twilight's heart with the help of Rainbow. Twilight pretends to stay asleep and enacts her own plan. As Twilight messes with Pinkie, she realizes she may like Pinkie as more than a friend. By the end Twilight asks Pinkie out. They cuddle and fall asleep./
+Pinkie tries to steal Twilight's heart with a kiss and a love note.
 
 # Як відкрити? Де фанфік?
 markdown файл: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main/The%20Heist%20of%20My%20Heart%20-%20ukr.md
