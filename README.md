@@ -32,6 +32,7 @@ markdown файл: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main
 
 # Original fic:
 https://www.fimfiction.net/story/538410/the-heist-of-my-heart
+
 https://github.com/SilkRose/Pony/tree/mane/src/stories/the-heist-of-my-heart
 
 # Original cover:
