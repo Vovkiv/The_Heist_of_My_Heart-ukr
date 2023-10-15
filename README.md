@@ -33,10 +33,10 @@ markdown файл: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main
 # Original fic:
 https://www.fimfiction.net/story/538410/the-heist-of-my-heart
 
-https://github.com/SilkRose/Pony/tree/mane/src/stories/the-heist-of-my-heart
+https://github.com/SilkRose/Pony/tree/mane/stories/the-heist-of-my-heart
 
 # Original cover:
-https://github.com/SilkRose/Pony/blob/mane/src/stories/the-heist-of-my-heart/cover.png
+https://github.com/SilkRose/Pony/blob/mane/stories/the-heist-of-my-heart/the-heist-of-my-heart-cover.png
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
