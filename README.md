@@ -1,12 +1,12 @@
 # Грабунок мого серця - Українською
-![обкладинка](https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main/src/cover-ukr.png?raw=true)
+![](src/cover-ukr.png)
 
 Пінкі намагається викрасти серце Твайлайт поцілунком і любовною запискою. Але у Твайлайт інші плани.
 
 # Як відкрити? Де фанфік?
-markdown файл: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main/The%20Heist%20of%20My%20Heart%20-%20ukr.md
+[markdown файл](The%20Heist%20of%20My%20Heart%20-%20ukr.md)
 
-пдф файл: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main/The%20Heist%20of%20My%20Heart%20-%20ukr.pdf
+[пдф файл](The%20Heist%20of%20My%20Heart%20-%20ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -31,15 +31,15 @@ markdown файл: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr/blob/main
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/538410/the-heist-of-my-heart
+[https://www.fimfiction.net/story/538410/the-heist-of-my-heart](https://www.fimfiction.net/story/538410/the-heist-of-my-heart)
 
-https://github.com/SilkRose/Pony/tree/mane/stories/the-heist-of-my-heart
+[https://github.com/SilkRose/Pony/tree/mane/stories/the-heist-of-my-heart](https://github.com/SilkRose/Pony/tree/mane/stories/the-heist-of-my-heart)
 
 # Original cover:
-https://github.com/SilkRose/Pony/blob/mane/stories/the-heist-of-my-heart/the-heist-of-my-heart-cover.png
+[https://github.com/SilkRose/Pony/blob/mane/stories/the-heist-of-my-heart/the-heist-of-my-heart-cover.png](https://github.com/SilkRose/Pony/blob/mane/stories/the-heist-of-my-heart/the-heist-of-my-heart-cover.png)
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
+[https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate)
 
 # Гітхаб теги:
 translation fanfiction mlp ukrainian volkov

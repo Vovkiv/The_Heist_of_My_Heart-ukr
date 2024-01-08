@@ -1,0 +1,5 @@
+*.kra~
+*.png~
+*.webp~
+.~lock*
+*.temp
